@@ -1,0 +1,45 @@
+div {
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px; 
+    display: inline-block; 
+    text-align: center; 
+    width: 20%; 
+    
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 10px; 
+  }
+
+  .mover-div-cancionesdelhuracan {
+   
+    top: auto;
+    right: auto;
+    width: 20%;
+
+ }
+
+.mover-div-obsesionario {
+
+top: auto;
+right: auto;
+width: 20%;
+
+}
+
+.mover-div-destinologia {
+  
+  top: auto;
+  right: auto;
+  width: 20%;
+}
+
+.mover-div-holamundo{
+
+  top: auto;
+right: auto;
+width: 20%;
+}
